@@ -1,0 +1,22 @@
+{
+  "name": "homeopatia",
+  "version": "1.0.0",
+  "description": "homeopatia unicista tomei",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvert/Homeopatia-Unicista-Tomei.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Marvert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marvert/Homeopatia-Unicista-Tomei/issues"
+  },
+  "homepage": "https://github.com/Marvert/Homeopatia-Unicista-Tomei#readme"
+}
